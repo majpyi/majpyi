@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm majpyi 👋</h1>
+<h1 align="center">Hi, I'm Ma Easy 👋</h1>
 
 <p align="center">
   软件工程师 · 后端 / 云原生 · 热爱把复杂问题拆成简单方案
