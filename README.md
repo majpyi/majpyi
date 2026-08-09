@@ -6,17 +6,18 @@
 
 <p align="center">
   <a href="https://majpyi.github.io">🌐 个人网站</a> ·
-  <a href="mailto:your-email@example.com">✉️ 邮箱</a>
+  <a href="mailto:majunyi.tech@gmail.com">✉️ 邮箱</a>
 </p>
 
 ---
 
 ### 🚀 关于我
 
-- 🔭 目前专注于 后端服务 / Go 生态 / 微服务架构
+- 🏢 目前在 ByteDance 从事后端研发
+- 🔭 专注于 后端服务 / Go 生态 / 微服务架构
 - 🌱 正在学习 分布式系统与 AI 工程化
 - 💬 可以和我聊聊 Go、系统设计、开发者工具
-- 📫 联系方式：your-email@example.com
+- 📫 联系方式：majunyi.tech@gmail.com
 
 ### 🛠️ 技术栈
 
@@ -48,7 +49,5 @@
 - 🐙 GitHub：https://github.com/majpyi
 
 <!--
-提示：
-1. 把 your-email@example.com 换成你的真实邮箱
-2. 徽章里的技术栈按自己实际情况增删
+提示：徽章里的技术栈按自己实际情况增删
 -->
