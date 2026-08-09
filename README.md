@@ -24,6 +24,8 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kitex](https://img.shields.io/badge/Kitex-00ADD8?style=flat&logo=go&logoColor=white)
+![Hertz](https://img.shields.io/badge/Hertz-00ADD8?style=flat&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -33,10 +35,10 @@
 
 **AI / LLM 应用**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Eino](https://img.shields.io/badge/Eino-00ADD8?style=flat&logo=go&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-向量检索-4B8BBE?style=flat)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-Milvus%2FFAISS-00A1EA?style=flat)
 
